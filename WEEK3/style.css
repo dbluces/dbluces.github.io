@@ -1,0 +1,23 @@
+body{
+    
+}
+h1{
+    color:red;
+}
+P{
+    color:white;
+    FONT-WEIGHT: BOLD;
+    font-size: 30PX;
+    TEXT-DECORATION: underline;
+    font-style: italic;
+    font-family: arial;
+    background-color: violet;
+    margin:100px;
+}
+body{
+    background-color: black;
+    background-image: url(image/diwata_pare_overload_philippines_2.webp);
+    background-size: cover;
+}
+
+

@@ -1,0 +1,69 @@
+h1{
+    COLOR:white;
+    TEXT-ALIGN:END;
+}
+P{
+    font-family: Arial;
+    color: white;
+
+}
+body {
+    background-color: #16365d;
+
+}
+h2{
+    color:white;
+    text-align:center;
+}
+h3{
+    color:white;
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    border-top:3px solid red;
+    border-left: 2px solid red;
+    background-color: black;
+    
+}
+.tables {
+    color: red;
+}
+.footers {
+    color: magenta;
+}
+h2{
+    color: red;
+}
+.directly {
+    color:blue;
+}
+.theme {
+    color: red ;
+}
+.include{
+    color: black;
+    background-color: green;
+}
+h4 {
+    color: green;
+}
+.controls {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: black;
+    font-family: arial;
+    font-style: italic;
+}
+.gallery {
+    background-color: red;
+    color: white;
+}
+h5 {
+    border-bottom: 2px solid yellow;
+    text-align: center;
+    width: 50%;
+    color: yellow;
+}
+li {
+    color: white;
+}
